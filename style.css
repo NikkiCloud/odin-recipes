@@ -43,3 +43,8 @@ p,ul,ol{
 .sous-titre{
     font-size: 20px;
 }
+
+img{
+    height: auto;
+    width: 500px;
+}
