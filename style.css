@@ -5,10 +5,21 @@
 .index .title{
     background-color: rgb(158, 207, 216);
     color: blue;
+    width: 400px;
+    margin: auto;
+    padding: 20px 50px;
+}
+
+.index-li{
+    padding-top: 20px;
 }
 
 .lemonade{
     background-color: rgb(224, 172, 187);
+    width: 400px;
+    margin: auto;
+    padding: 20px 50px;
+    text-align: center;
 }
 
 .lemonade .title{
@@ -18,6 +29,10 @@
 
 .corn{
     background-color: lightgoldenrodyellow;
+    width: 400px;
+    margin: auto;
+    padding: 20px 50px;
+    text-align: center;
 }
 
 .corn .title{
